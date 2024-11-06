@@ -1,5 +1,7 @@
 Jana Ammar 
 
+Main code in js folder - script.js
+
 Added features:
 - Added lives, when fly is missed or eatten evil fly you lose lives. If all lives lost then game is over and lost. 
 
